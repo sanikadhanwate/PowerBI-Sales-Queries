@@ -2,7 +2,8 @@
 These are the DAX queries performed on the Sales Sheet to analyze Total Revenue, Profit Margin, Profit Ratio, Profitable vs. Unprofitable Orders, and Average Order Quantities. The analysis covers sales trends, regional contributions, product category performance, and correlations like discounts vs. sales and order priority vs. on-time delivery. 
 
 Excel Sheet Link with calculated column : https://1drv.ms/x/c/088fb23c46fc8d10/Ee-frQHf2NtNg7bUqFqSkRIBkrBJqW-lOAeIfjCPM8f7Gg?e=gtBQZL
-PowerBI Link with perfomed DAX : 
+
+PowerBI Link with perfomed DAX : https://github.com/sanikadhanwate/PowerBI-Sales-Queries/blob/ee6bc1f99fa4713d07803e5fc0f10b0407231153/dashboard3.pbix
 
 Below is the dashboard showcasing insights from these queries for the years 2011 to 2014, each dashborad has set of questions pasted after...
 ![Screenshot 2025-02-08 204433](https://github.com/user-attachments/assets/1b4a33ee-7163-4044-8212-9a1e0c0b87a5)
